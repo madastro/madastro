@@ -14,13 +14,14 @@
             "url": "http://www.madastro.com/hello-world.html",
             "title": "Hello World!",
             "content_html": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "http://www.madastro.com/media/posts/1/9fybtvfnseoxoggzivhj_img_2226.jpg",
             "author": {
                 "name": "madastro"
             },
             "tags": [
             ],
-            "date_published": "2017-08-14T16:01:41+08:00",
-            "date_modified": "2017-08-14T16:00:37+08:00"
+            "date_published": "2017-08-14T16:05:25+08:00",
+            "date_modified": "2017-08-14T16:05:16+08:00"
         }
     ]
 }
