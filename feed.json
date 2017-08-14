@@ -5,6 +5,7 @@
     "home_page_url": "http://www.madastro.com",
     "feed_url": "http://www.madastro.com/feed.json",
     "user_comment": "",
+    "icon": "http://www.madastro.com/media/website/madastro-logo.png",
     "author": {
         "name": "madastro"
     },
@@ -20,7 +21,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-14T16:57:33+08:00",
+            "date_published": "2017-08-14T17:57:42+08:00",
             "date_modified": "2017-08-14T16:05:16+08:00"
         }
     ]
