@@ -1,0 +1,14 @@
+title: madastro
+baseurl: "/"
+timezone: Asia/Manila
+markdown: redcarpet
+permalink: /posts/:title/
+sass:
+  sass_dir: _sass
+  style: compressed
+defaults:
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "default"
